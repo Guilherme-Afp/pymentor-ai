@@ -1,0 +1,16 @@
+{
+  "conceitos": [
+    {
+      "nome": "Variáveis",
+      "nivel": "iniciante"
+    },
+    {
+      "nome": "Funções",
+      "nivel": "iniciante"
+    },
+    {
+      "nome": "Classes",
+      "nivel": "intermediario"
+    }
+  ]
+}

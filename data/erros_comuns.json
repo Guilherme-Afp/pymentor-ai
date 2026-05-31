@@ -1,0 +1,12 @@
+{
+  "erros": [
+    {
+      "erro": "Loop infinito",
+      "causa": "condição nunca alterada"
+    },
+    {
+      "erro": "IndexError",
+      "causa": "índice fora da lista"
+    }
+  ]
+}

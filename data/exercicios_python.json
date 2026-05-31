@@ -1,0 +1,14 @@
+{
+  "exercicios": [
+    {
+      "id": 1,
+      "titulo": "Calculadora",
+      "dificuldade": "iniciante"
+    },
+    {
+      "id": 2,
+      "titulo": "Sistema de Estoque",
+      "dificuldade": "intermediario"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "criterios": [
+    "Correção",
+    "Legibilidade",
+    "Modularização",
+    "Eficiência",
+    "PEP8"
+  ]
+}

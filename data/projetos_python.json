@@ -1,0 +1,12 @@
+{
+  "projetos": [
+    {
+      "nome": "Lista de Tarefas",
+      "nivel": "iniciante"
+    },
+    {
+      "nome": "API REST",
+      "nivel": "avancado"
+    }
+  ]
+}
